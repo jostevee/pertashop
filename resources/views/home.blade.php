@@ -3,17 +3,17 @@
 @section('title', 'Dashboard')
 
 @section('content_header')
-<h1 data-aos="fade-right" data-aos-delay="100">Dashboard</h1>
+<h1 data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">Dashboard</h1>
 @stop
 
 @section('content')
-<p data-aos="fade-right" data-aos-delay="100">Selamat datang di Apps Pertashop PT Pertamina Retail! Untuk menu, silakan klik tombol garis tiga di pojok kiri atas</p>
+<p data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">Selamat datang di Apps Pertashop PT Pertamina Retail! Untuk menu, silakan klik tombol garis tiga di pojok kiri atas</p>
 <!-- Main content -->
     <section class="content">
       <div class="container-fluid">
         <!-- Small boxes (Stat box) -->
         <div class="row">
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info">
               <div class="inner">
@@ -28,7 +28,7 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info"><!-- bg-success -->
               <div class="inner">
@@ -43,7 +43,7 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info"><!-- bg-warning -->
               <div class="inner">
@@ -58,7 +58,7 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info"><!-- bg-danger -->
               <div class="inner">
@@ -73,7 +73,7 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info"><!-- bg-danger -->
               <div class="inner">
@@ -88,7 +88,7 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
             <div class="small-box bg-info"><!-- bg-danger -->
               <div class="inner">
