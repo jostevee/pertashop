@@ -35,16 +35,16 @@
 
         {{-- ID field --}}
         <div class="input-group mb-3">
-            <input type="text" name="user_id" class="form-control {{ $errors->has('user_id') ? 'is-invalid' : '' }}"
-                   value="{{ old('user_id') }}" placeholder="ID"> <!-- {{ __('adminlte::adminlte.email') }} -->
+            <input type="text" name="email" class="form-control {{ $errors->has('email') ? 'is-invalid' : '' }}"
+                   value="{{ old('email') }}" placeholder="ID"> <!-- {{ __('adminlte::adminlte.email') }} -->
             <div class="input-group-append">
                 <div class="input-group-text">
                     <span class="fas fa-envelope {{ config('adminlte.classes_auth_icon', '') }}"></span>
                 </div>
             </div>
-            @if($errors->has('user_id'))
+            @if($errors->has('email'))
                 <div class="invalid-feedback">
-                    <strong>{{ $errors->first('user_id') }}</strong>
+                    <strong>{{ $errors->first('email') }}</strong>
                 </div>
             @endif
         </div>
