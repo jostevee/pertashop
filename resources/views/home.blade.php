@@ -13,13 +13,13 @@
       <div class="container-fluid">
         <!-- Small boxes (Stat box) -->
         <div class="row">
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-5" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info">
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-info -->
               <div class="inner">
-                <h3><i class="fas fa-tag"></i></h3>
+                <h3><i class="fas fa-tag" style="color: white;"></i></h3>
 
-                <p>Harga Produk</p>
+                <h5 style="color: white;">Harga Produk</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
@@ -28,13 +28,13 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-7" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info"><!-- bg-success -->
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-success -->
               <div class="inner">
-                <h3><i class="fas fa-truck"></i></h3>
+                <h3><i class="fas fa-truck" style="color: white;"></i></h3>
 
-                <p>Input Penerimaan DO</p>
+                <h5 style="color: white;">Input Penerimaan DO</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-stats-bars"></i>
@@ -43,13 +43,13 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-5" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info"><!-- bg-warning -->
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-warning -->
               <div class="inner">
-                <h3><i class="fas fa-oil-can"></i></h3>
+                <h3><i class="fas fa-oil-can" style="color: white;"></i></h3>
 
-                <p>Input Arus Minyak</p>
+                <h5 style="color: white;">Input Arus Minyak</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
@@ -58,13 +58,13 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-7" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info"><!-- bg-danger -->
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-danger -->
               <div class="inner">
-                <h3><i class="fas fa-cash-register"></i></h3>
+                <h3><i class="fas fa-cash-register" style="color: white;"></i></h3>
 
-                <p>Input Penerimaan Tunai dan Non Tunai</p>
+                <h5 style="color: white;">Input Penerimaan Tunai - Non Tunai</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
@@ -73,13 +73,13 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-12" data-aos="fade-right" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info"><!-- bg-danger -->
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-danger -->
               <div class="inner">
-                <h3><i class="fas fa-clipboard-list"></i></h3>
+                <h3><i class="fas fa-clipboard-list" style="color: white;"></i></h3>
 
-                <p>Shift Settlement</p>
+                <h5 style="color: white;">Shift Settlement</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
@@ -88,13 +88,13 @@
             </div>
           </div>
           <!-- ./col -->
-          <div class="col-lg-4 col-6" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
+          <div class="col-lg-4 col-12" data-aos="fade-left" data-aos-delay="100" data-aos-duration="700">
             <!-- small box -->
-            <div class="small-box bg-info"><!-- bg-danger -->
+            <div class="small-box" style="background-color: #1977cc;"><!-- bg-danger -->
               <div class="inner">
-                <h3><i class="fas fa-university"></i></h3>
+                <h3><i class="fas fa-university" style="color: white;"></i></h3>
 
-                <p>Input Setoran Tunai</p>
+                <h5 style="color: white;">Input Setoran Tunai</h5>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
