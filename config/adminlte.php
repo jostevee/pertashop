@@ -46,7 +46,7 @@ return [
     */
 
     'logo' => '<b>Admin</b>Pertashop',
-    'logo_img' => 'vendor/adminlte/dist/img/AdminPertashopLogo.png',
+    'logo_img' => 'assets/AdminPertashopLogo.png', // vendor/adminlte/dist/img/AdminLogo.png
     'logo_img_class' => 'brand-image img-square elevation-0',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
